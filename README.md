@@ -29,8 +29,8 @@
 
 ### 📫 Let's Connect:
 - 📧 Email: muhammadmaaz1607@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn URL]
-- 🌐 Portfolio: [Your Portfolio Website]
+- 🔗 LinkedIn: 
+- 🌐 Portfolio: [web]
 
 ---
 
